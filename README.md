@@ -1,15 +1,25 @@
 <div align="center">
+  <img src="assets/icon.png" alt="BV / AV 转换器图标" width="120" />
 
-# BV / AV 转换器
+  # BV / AV 转换器
 
-**哔哩哔哩视频编号双向转换工具** · 支持 2026 新版编号
+  **哔哩哔哩视频编号双向转换工具** · 支持 2026 新版编号
 
-### [⬇ 下载 Windows 版](../../releases/latest)
+  <a href="../../releases/latest"><strong>下载程序</strong></a>
+  ·
+  <a href="bv_aid_v2.py">源代码</a>
+  ·
+  <a href="../../releases">更新日志</a>
+  ·
+  <a href="../../issues">问题反馈</a>
+  ·
+  <a href="LICENSE">MIT 协议</a>
+</div>
 
-<sub>单文件免安装 · 8.5 MB · 无需 Python 环境</sub>
+<br />
 
-<sub>[源代码](bv_aid_v2.py) · [MIT 协议](LICENSE) · [更新日志](../../releases)</sub>
-
+<div align="center">
+  <sub>单文件免安装 · 8.5 MB · 无需 Python 环境</sub>
 </div>
 
 ---

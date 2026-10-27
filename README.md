@@ -4,14 +4,11 @@
 
 **哔哩哔哩视频编号双向转换工具** · 支持 2026 新版编号
 
-[![Release](https://img.shields.io/github/v/release/keke618/bv-av-converter?style=flat-square&color=fb7299)](https://github.com/keke618/bv-av-converter/releases)
-[![License](https://img.shields.io/github/license/keke618/bv-av-converter?style=flat-square)](LICENSE)
-[![Python](https://img.shields.io/badge/python-3.8%2B-3776ab?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Platform](https://img.shields.io/badge/platform-Windows-0078d4?style=flat-square&logo=windows)](https://github.com/keke618/bv-av-converter/releases)
-
 ### [⬇ 下载 Windows 版](../../releases/latest)
 
 <sub>单文件免安装 · 8.5 MB · 无需 Python 环境</sub>
+
+<sub>[源代码](bv_aid_v2.py) · [MIT 协议](LICENSE) · [更新日志](../../releases)</sub>
 
 </div>
 
